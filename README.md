@@ -1,8 +1,10 @@
 
-Project Overview
+Project Overview: 
+
 This project focuses on forecasting the market capitalisation of companies listed on the London Stock Market using time series analysis in R. It aims to uncover growth patterns, seasonality, and potential future trends in market performance.
 
-Objectives
+Objectives: 
+
 Clean and prepare historical market capitalisation data
 
 Perform exploratory data analysis (EDA)
@@ -13,14 +15,16 @@ Evaluate model accuracy using error metrics
 
 Visualize past trends and future projections
 
-Tools & Technologies
+Tools & Technologies: 
+
 R (Primary programming language)
 
 forecast and tseries (Time series modeling)
 
 ggplot2 (Data visualization)
 
-Methodology
+Methodology: 
+
 Data Collection
 
 Historical market cap data for LSE-listed companies 
@@ -33,13 +37,13 @@ EDA & Visualization
 
 Identified trends, seasonality, and anomalies in historical market cap figures
 
-Modeling
+Modeling: 
 
 Used models ARIMA for time series forecasting
 
 Compared model performance using RMSE, MAPE, and AIC values
 
-Forecasting
+Forecasting:
 
 Predicted future market capitalisation and visualized results
 
@@ -50,7 +54,8 @@ ARIMA provided the best fit with the lowest forecasting error.
 
 Forecast suggests a moderate growth trajectory over the next years.
 
-How to Run
+How to Run:
+
 Clone or download the repository
 
 Open Forecasting LSE.R in RStudio
